@@ -25,4 +25,4 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates from ClassGen/clas
 	Enter ClassName(s) (separated by whitespace) :
 
 #### - écrire une ou plusieurs 'ClassName' et presser 'enter' 
-#### - pour quitter le prog: laisser vider et presser 'enter'
+#### - pour quitter le prog: laisser vider et presser 'enter' ou utiliser ctrl-c
