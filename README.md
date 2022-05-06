@@ -17,13 +17,16 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates
 	Insert : 
 		alias class="ClassList.sh"
 
-## Utiliser cette alias comme commande pour générer des classes dans le dossier courant depuis n'importe où
+## Utiliser cette alias comme commande pour générer des classes dans le dossier courant
 
 	$ class
 	
 	C++ class files generator (*.hpp + *.cpp)
-	Enter ClassName(s) (separated by whitespace) : ...
+	Enter ClassName(s) (separated by whitespace) :
 
-## Modifier les fichiers template dans ClassGen/class_files
+#### écrire une ou plusieurs 'ClassName' et presser 'enter' 
+#### pour quitter le prog: laisser vider et presser 'enter'
+
+## Possibilité d'adapter les fichiers template dans : ClassGen/class_files
 
 	...
