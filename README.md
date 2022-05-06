@@ -5,7 +5,7 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates in: ClassGen/class
 
 	$ cd ~ && git clone https://github.com/thomasn8/ClassGen.git
 
-## Dans .zshrc ou .bashrc, modifier $PATH avec le chemin vers ClassGen :
+## Dans .zshrc ou .bashrc, modifier $PATH avec le chemin vers ClassGen
 
 	$ vim .zshrc
 
