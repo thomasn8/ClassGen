@@ -30,5 +30,5 @@ Affichera:
 
 Possibilités:
 - écrire 1 ClassName et presser 'enter'
-- écrire plusieurs ClassName séparé par des espaces et presser 'enter'
+- écrire plusieurs ClassName séparées par des espaces et presser 'enter'
 - quitter le prog en laissant le champ vide et en pressant 'enter' (ou ctrl-c)
