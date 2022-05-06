@@ -12,10 +12,10 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates in: ClassGen/class
 	Add:
 		PATH=$PATH:/Users/thomas/ClassGen
 
-## Dans ce même .zshrc ou .bashrc, ajouter une alias pour "ClassGen.sh"
+## Dans ce même .zshrc ou .bashrc, ajouter une alias pour ClassGen.sh
 
 	Add: 
-		alias class="ClassList.sh"
+		alias class="ClassGen.sh"
 
 ## Utiliser cette alias comme commande pour générer des classes dans le dossier courant
 
@@ -24,5 +24,5 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates in: ClassGen/class
 	C++ class files generator (*.hpp + *.cpp)
 	Enter ClassName(s) (separated by whitespace) :
 
-#### écrire une ou plusieurs 'ClassName' et presser 'enter' 
-#### pour quitter le prog: laisser vider et presser 'enter'
+#### - écrire une ou plusieurs 'ClassName' et presser 'enter' 
+#### - pour quitter le prog: laisser vider et presser 'enter'
