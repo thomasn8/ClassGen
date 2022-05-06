@@ -22,9 +22,13 @@ Et cette ligne:
 ## Utiliser cette alias comme commande, depuis n'importe où, pour générer des classes dans le dossier courant
 
 	$ class
-	
+
+Affichera:
+
 	C++ class files generator (*.hpp + *.cpp)
 	Enter ClassName(s) (separated by whitespace) :
 
-#### - écrire une ou plusieurs 'ClassName' et presser 'enter' 
-#### - pour quitter le prog, laisser vide et presser 'enter' ou utiliser ctrl-c
+Possibilités:
+- écrire 1 ClassName et presser 'enter'
+- écrire plusieurs ClassName séparé par des espaces et presser 'enter'
+- quitter le prog en laissant le champ vide et en pressant 'enter' (ou ctrl-c)
