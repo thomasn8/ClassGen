@@ -9,13 +9,15 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates from ClassGen/clas
 
 	$ vim .zshrc
 
-	Add:
-		PATH=$PATH:/Users/thomas/ClassGen
+Ajouter cette ligne:
+
+	PATH=$PATH:/Users/thomas/ClassGen
 
 ## Dans ce même .zshrc ou .bashrc, ajouter une alias pour ClassGen.sh
 
-	Add: 
-		alias class="ClassGen.sh"
+Et cette ligne:
+
+	alias class="ClassGen.sh"
 
 ## Utiliser cette alias comme commande, depuis n'importe où, pour générer des classes dans le dossier courant
 
