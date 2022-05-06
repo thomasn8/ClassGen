@@ -17,7 +17,7 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates from ClassGen/clas
 	Add: 
 		alias class="ClassGen.sh"
 
-## Utiliser cette alias comme commande pour générer des classes dans le dossier courant
+## Utiliser cette alias comme commande, depuis n'importe où, pour générer des classes dans le dossier courant
 
 	$ class
 	
@@ -25,4 +25,4 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates from ClassGen/clas
 	Enter ClassName(s) (separated by whitespace) :
 
 #### - écrire une ou plusieurs 'ClassName' et presser 'enter' 
-#### - pour quitter le prog: laisser vider et presser 'enter' ou utiliser ctrl-c
+#### - pour quitter le prog, laisser vide et presser 'enter' ou utiliser ctrl-c
