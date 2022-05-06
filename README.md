@@ -27,6 +27,4 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates
 #### écrire une ou plusieurs 'ClassName' et presser 'enter' 
 #### pour quitter le prog: laisser vider et presser 'enter'
 
-## Possibilité d'adapter les fichiers template dans : ClassGen/class_files
-
-	...
+Possibilité d'adapter les fichiers template dans : ClassGen/class_files
