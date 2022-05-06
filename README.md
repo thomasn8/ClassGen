@@ -25,8 +25,8 @@ Et cette ligne:
 
 Affichera:
 
-	C++ class files generator (*.hpp + *.cpp)
-	Enter ClassName(s) (separated by whitespace) :
+C++ class files generator (*.hpp + *.cpp)
+Enter ClassName(s) (separated by whitespace) :
 
 Possibilités:
 - écrire 1 ClassName et presser 'enter'
