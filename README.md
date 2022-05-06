@@ -1,5 +1,5 @@
 # ClassGen
-Generate c++ Class files (*.cpp and *.hpp) based on templates
+Generate c++ Class files (*.cpp and *.hpp) based on templates in: ClassGen/class_files
 
 ## Copier le dossier ClassGen quelque part, par exemple dans /Users/thomas
 
@@ -26,5 +26,3 @@ Generate c++ Class files (*.cpp and *.hpp) based on templates
 
 #### écrire une ou plusieurs 'ClassName' et presser 'enter' 
 #### pour quitter le prog: laisser vider et presser 'enter'
-
-Possibilité d'adapter les fichiers template dans : ClassGen/class_files
